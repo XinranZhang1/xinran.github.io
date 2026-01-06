@@ -22,7 +22,6 @@ Education
   The Pennsylvania State University *(2023)*
 
 ## Research and Teaching Interests
-======
 - Credential inflation and degree devaluation  
 - AI and workplace learning / Human Resource Development  
 - AI-driven skill shifts, HR practices, and hiring trends  
@@ -40,7 +39,7 @@ Education
   
 Skills
 ======
-**Research & Analytical Methods**: Education policy analysis, quantitative analysis, comparative education, organizational and HRD research  
+- **Research & Analytical Methods**: Education policy analysis, quantitative analysis, comparative education, organizational and HRD research  
 - **Data, AI & Computational Tools**: Familiar with Python, Stata, SPSS, Excel, and R; experience leveraging generative AI for literature synthesis, qualitative coding, and exploratory research design.
 - **Bilinguall**
   
