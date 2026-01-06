@@ -26,10 +26,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Xinran Zhang"
-  bio              : "I am a PhD student in Education Policy, Organization & Leadership (Human Resource Development) at the University of Illinois Urbana-Champaign. My research focuses on workplace AI–human interaction, AI-driven skill shifts, and the implications of emerging technologies for workplace learning, talent development, and post-hire competence formation. I am particularly interested in credential inflation and degree devaluation, and in how organizations and HRD professionals reconstruct signals of competence beyond formal degrees. My work sits at the intersection of education policy, human resource development, and the changing relationship between formal education and work. \n I received my Ed.M. in Education Policy and Analysis (Comparative Education) from the Harvard Graduate School of Education (HGSE). My master’s training emphasized comparative and international perspectives on education policy, with a strong focus on equity, governance, and labor-market alignment. I developed a sustained interest in how education systems and organizations respond to structural changes in work, technology, and skill demand from a culturally responsive perspective."   # Update this with a general description of your site, this is the default if not overridden by a page."
+  name             : "Xinran Zhang (pronounced “shin-rahn jahng”)"
+  bio              : "Research: AI & Work, Skills, Credentials"
   pronouns         : "she/her"
-  location         : "U.S."
+  location         : "U.S.🇺🇸"
   employer         : "University of Illinois Urbana-Champaign (UIUC)"
   email            : "xinranz8@illinois.edu" 
 
