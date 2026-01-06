@@ -10,64 +10,42 @@ redirect_from:
 {% include base_path %}
 
 🔗 [LinkedIn](https://www.linkedin.com/in/xinranzhang26/)  
+📄 [Download Full CV (PDF)](https://drive.google.com/file/d/1853jnjvp1kEJsZfhmhkbHDW8StMODVMI/view?usp=sharing)
 
 Education
 ======
-**University of Illinois Urbana-Champaign**, Champaign, IL
-* Ph.D in Education Policy, Organization & Leadership, Concentration: Human Resources Development, 
-* Aug 2025 – May 2030 (Expected)
-* Harvard University, Harvard Graduate School of Education, Cambridge, MA  
-*M.Ed. in Education Policy and Analysis*  
-Concentration: Comparative Education  
-GPA: 3.85 / 4.0  
-*Aug 2024 – May 2025*  
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Ph.D.**, Education Policy, Organization & Leadership (HRD),  
+  University of Illinois Urbana-Champaign *(Expected 2030)*
+- **Ed.M.**, Education Policy and Analysis (Comparative Education),  
+  Harvard Graduate School of Education *(2025)*
+- **B.S.**, Education and Public Policy & **B.A.**, Labor and Human Resources,  
+  The Pennsylvania State University *(2023)*
 
-Work experience
+## Research and Teaching Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Credential inflation and degree devaluation  
+- AI and workplace learning / Human Resource Development  
+- AI-driven skill shifts, HR practices, and hiring trends  
+- Workplace learning versus formal education  
+- Culturally responsive teaching for ESL students  
+- Academic success of international students 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Professional Experience (Selected)
+- **Armstrong World Industries (AWI)** — Student Participant  
+  Community engagement research and organizational perception analysis.
+- **Altair Design Inc.** — Intern  
+  Recruitment, hiring support, and digital platform operations.
+- **Industrial and Commercial Bank of China (ICBC)** — Intern  
+  Client-facing operations in a large multinational financial institution.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+**Research & Analytical Methods**: Education policy analysis, quantitative analysis, comparative education, organizational and HRD research  
+- **Data, AI & Computational Tools**: Familiar with Python, Stata, SPSS, Excel, and R; experience leveraging generative AI for literature synthesis, qualitative coding, and exploratory research design.
+- **Bilinguall**
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
