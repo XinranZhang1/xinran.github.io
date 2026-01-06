@@ -1,5 +1,6 @@
 ---
 title: "Superintendent Attrition in Pennsylvania: 2014–2023"
+collection: publications
 category: manuscripts
 permalink: https://ceepablog.wordpress.com/2023/12/15/superintendent-turnover-in-pennsylvania-2014-2023/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
