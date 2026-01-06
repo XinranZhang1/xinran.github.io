@@ -9,9 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+🔗 [LinkedIn](https://www.linkedin.com/in/xinranzhang26/)  
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**University of Illinois Urbana-Champaign**, Champaign, IL
+* Ph.D in Education Policy, Organization & Leadership, Concentration: Human Resources Development, 
+* Aug 2025 – May 2030 (Expected)
+* Harvard University, Harvard Graduate School of Education, Cambridge, MA  
+*M.Ed. in Education Policy and Analysis*  
+Concentration: Comparative Education  
+GPA: 3.85 / 4.0  
+*Aug 2024 – May 2025*  
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
