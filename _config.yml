@@ -33,8 +33,15 @@ author:
                       - Credentials, Signaling, and Competence in the Age of AI"
   pronouns         : "she/her"
   location         : "U.S.🇺🇸"
-  employer         : "University of Illinois Urbana-Champaign (UIUC)"
+  employer         : "University of Illinois Urbana-Champaign"
   email            : "xinranz8@illinois.edu" 
+
+  <div class="research-interests">
+    <h3>Research Interests</h3>
+    <ul>
+      <li>AI–Human Interaction in the Workplace</li>
+      <li>AI-Driven Skill Formation and Workplace Learning</li>
+      <li>Credentials, Signaling, and Competence in the Age of AI</li>
 
   # Academic websites
   googlescholar    :  
