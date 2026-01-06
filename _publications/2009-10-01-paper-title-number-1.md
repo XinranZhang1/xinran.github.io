@@ -15,4 +15,4 @@ paperurl: "https://ceepablog.wordpress.com/2023/12/15/superintendent-turnover-in
 citation: "Fuller, E.J. & Zhang, X. (2023, Dec). Superintendent Attrition in Pennsylvania: 2014–2023. Center for Education Evaluation and Policy Analysis, Penn State College of Education."
 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study examines ten years of superintendent turnover in Pennsylvania, highlighting trends by race, gender, district type, and locale. Using state employment records, we find attrition peaked in 2022–23, with the highest rates among Black male superintendents, charter schools, and urban districts. Findings underscore the challenges of maintaining stable educational leadership and suggest that competitive compensation and strong board-superintendent communication might help reduce turnover.
