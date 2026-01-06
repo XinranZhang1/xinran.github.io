@@ -27,21 +27,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Xinran Zhang (pronounced “shin-rahn jahng”)"
-  bio              : "Research Interests: 
-                      - AI–Human Interaction in the Workplace
-                      - AI-Driven Skill Formation and Workplace Learning 
-                      - Credentials, Signaling, and Competence in the Age of AI"
+  bio              : "PhD Student in Education Policy, Organization & Leadership (HRD)”
   pronouns         : "she/her"
   location         : "U.S.🇺🇸"
   employer         : "University of Illinois Urbana-Champaign"
   email            : "xinranz8@illinois.edu" 
 
-  <div class="research-interests">
-    <h3>Research Interests</h3>
-    <ul>
-      <li>AI–Human Interaction in the Workplace</li>
-      <li>AI-Driven Skill Formation and Workplace Learning</li>
-      <li>Credentials, Signaling, and Competence in the Age of AI</li>
 
   # Academic websites
   googlescholar    :  
