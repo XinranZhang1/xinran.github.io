@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Education Policy, Organization & Leadership (Human Resource Development) at the University of Illinois Urbana-Champaign.
+I am a PhD student in Education Policy, Organization & Leadership (Human Resource Development) at the University of Illinois Urbana-Champaign, advised by [Dr. Jessica Li](https://education.illinois.edu/profile/jessica-li).
 ------------
 - My research focuses on workplace AI–human interaction, AI-driven skill shifts, and the implications of emerging technologies for workplace learning, talent development, and post-hire competence formation.
 - I am particularly interested in credential inflation and degree devaluation, and in how organizations and HRD professionals reconstruct signals of competence beyond formal degrees.
