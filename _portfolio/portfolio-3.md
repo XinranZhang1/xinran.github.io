@@ -4,7 +4,7 @@ excerpt: "Designed and prototyped an AI mentoring system to study how people con
 collection: portfolio
 ---
 
-Designed and prototyped [Nori](https://ai.studio/apps/drive/1Qo9dKuySh17e8jlMsswCN0YGX4LkRdek) , an AI-mediated mentoring system that helps students and early-career professionals make sense of their identities, skills, and career trajectories under conditions of uncertainty and degree devaluation.
+Designed and prototyped [Nori](https://ai.studio/apps/drive/1Qo9dKuySh17e8jlMsswCN0YGX4LkRdek), an AI-mediated mentoring system that helps students and early-career professionals make sense of their identities, skills, and career trajectories under conditions of uncertainty and degree devaluation.
 - Conceptualized Nori as a **developmental human–AI interaction system** grounded in theories of identity development, signaling, and human resource development (HRD).  
 - Built a guided conversational architecture that supports **emotional regulation, self-reflection, and skill articulation**, rather than generic question-answering.  
 - Used Nori as a **research probe** to explore how individuals negotiate meaning, confidence, and professional identity through interaction with AI.  
