@@ -12,7 +12,7 @@ author_profile: true
 ### **Thoughts Pinboard (Chrome Extension)**
 *An AI-integrated productivity tool for seamless idea capturing.*
 
-[![Chrome Web Store](https://chromewebstore.google.com/detail/thoughts-pinboard/jjhhhndllbfickenpfdkogobpdhdbdng)]
+[(https://chromewebstore.google.com/detail/thoughts-pinboard/jjhhhndllbfickenpfdkogobpdhdbdng)]
 ⭐ **5.0/5.0 Rating on Chrome Web Store**
 
 **Overview:**
@@ -30,4 +30,4 @@ Thought Dump is a minimalist browser extension designed for deep thinkers to off
 ---
 
 ## Other Technical Projects
-*(Add data analysis projects or web tools here in the future)*
+*(More data analysis projects will be added in the future)*
