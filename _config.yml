@@ -180,9 +180,9 @@ collections:
   publications:
     output: true
     permalink: /publications/:title/
-  teaching:
+  products:
     output: true
-    permalink: /teaching/:title/
+    permalink: /products/:title/
   portfolio:
     output: true
     permalink: /portfolio/:title/
@@ -211,10 +211,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _products
   - scope:
       path: ""
-      type: teaching
+      type: products
     values:
       layout: single
       author_profile: true
