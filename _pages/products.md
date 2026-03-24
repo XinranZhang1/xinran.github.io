@@ -19,7 +19,7 @@ An AI-integrated productivity tool for seamless idea capturing and workflow opti
 * **Status:** Successfully launched and maintained
 
 ### **Product Overview**
-**Thought Dump** (Thoughts Pinboard) is a minimalist browser extension designed for researchers and deep thinkers. It solves the "cognitive leak" problem—when fleeting ideas vanish during intense AI interactions.
+**Thought Pinboard** is a minimalist browser extension designed for deep thinkers. It solves the "cognitive load" problem—when fleeting ideas vanish during intense AI interactions.
 
 **Key Features:**
 * **Unified AI Workflow:** Effortlessly sync and bridge notes directly with Gemini and ChatGPT interfaces.
