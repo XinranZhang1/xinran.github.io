@@ -7,16 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Featured Project
+I design and build tools that optimize cognitive flow and bridge the gap between human thought and AI productivity.
 
-### **Thoughts Pinboard (Chrome Extension)**
-*An AI-integrated productivity tool for seamless idea capturing.*
+---
 
-[(https://chromewebstore.google.com/detail/thoughts-pinboard/jjhhhndllbfickenpfdkogobpdhdbdng)]
-⭐ **5.0/5.0 Rating on Chrome Web Store**
+## Thoughts Pinboard (Chrome Extension)
+An AI-integrated productivity tool for seamless idea capturing and workflow optimization.
 
-**Overview:**
-Thought Dump is a minimalist browser extension designed for deep thinkers to offload mental clutter without breaking their flow. It bridges the gap between raw inspiration and AI-powered processing.
+* **View on [Chrome Web Store](https://chromewebstore.google.com/detail/thoughts-pinboard/jjhhhndllbfickenpfdkogobpdhdbdng)**
+* **Rating:** 5.0/5.0
+* **Status:** Successfully launched and maintained
+
+### **Product Overview**
+**Thought Dump** (Thoughts Pinboard) is a minimalist browser extension designed for researchers and deep thinkers. It solves the "cognitive leak" problem—when fleeting ideas vanish during intense AI interactions.
 
 **Key Features:**
 * **Unified AI Workflow:** Effortlessly sync and bridge notes directly with Gemini and ChatGPT interfaces.
@@ -24,8 +27,10 @@ Thought Dump is a minimalist browser extension designed for deep thinkers to off
 * **Minimalist UI:** A lightweight design that stays out of your way until you need it.
 * **Zero Friction:** Built for speed to ensure no idea is lost to a slow interface.
 
-**Tech Stack:**
-`JavaScript` · `CSS` · `Chrome Extension API` · `AI Integration`
+### Technical Stack
+* **Languages:** JavaScript, CSS3
+* **APIs:** Chrome Extension API
+* **Integration:** AI Interface Bridge (OpenAI/Google Gemini)
 
 ---
 
