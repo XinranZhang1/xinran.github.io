@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Products & Projects"
+title: "Products"
 permalink: /products/
 author_profile: true
 ---
