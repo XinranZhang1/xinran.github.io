@@ -15,7 +15,7 @@ I design and build tools that optimize cognitive flow and bridge the gap between
 An AI-integrated productivity tool for seamless idea capturing and workflow optimization.
 
 * **View on [Chrome Web Store](https://chromewebstore.google.com/detail/thoughts-pinboard/jjhhhndllbfickenpfdkogobpdhdbdng)**
-* **Rating:** 5.0/5.0
+* **Rating:** ⭐️5.0/5.0
 * **Status:** Successfully launched and maintained
 
 ### **Product Overview**
